@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "scientific_name": "Anabantidae",
+      "order": null,
+      "common_name": "Climbing gouramies",
+      "species_count": 1
+    },
+    {
+      "scientific_name": "Bagridae",
+      "order": null,
+      "common_name": "Bagrid catfishes",
+      "species_count": 1
+    },
+    {
+      "scientific_name": "Butidae",
+      "order": null,
+      "common_name": "Sleeper gobies",
+      "species_count": 1
+    },
+    {
+      "scientific_name": "Channidae",
+      "order": null,
+      "common_name": "Snakeheads",
+      "species_count": 3
+    },
+    {
+      "scientific_name": "Cichlidae",
+      "order": null,
+      "common_name": "Cichlids",
+      "species_count": 1
+    },
+    {
+      "scientific_name": "Clariidae",
+      "order": null,
+      "common_name": "Airbreathing catfishes",
+      "species_count": 1
+    },
+    {
+      "scientific_name": "Cyprinidae",
+      "order": null,
+      "common_name": "Carps, barbs and minnows",
+      "species_count": 4
+    },
+    {
+      "scientific_name": "Latidae",
+      "order": null,
+      "common_name": "Lates perches",
+      "species_count": 1
+    },
+    {
+      "scientific_name": "Lutjanidae",
+      "order": null,
+      "common_name": "Snappers",
+      "species_count": 1
+    },
+    {
+      "scientific_name": "Osphronemidae",
+      "order": null,
+      "common_name": "Gouramies",
+      "species_count": 1
+    },
+    {
+      "scientific_name": "Pangasiidae",
+      "order": null,
+      "common_name": "Shark catfishes",
+      "species_count": 1
+    },
+    {
+      "scientific_name": "Scombridae",
+      "order": null,
+      "common_name": "Mackerels and tunas",
+      "species_count": 2
+    },
+    {
+      "scientific_name": "Serranidae",
+      "order": null,
+      "common_name": "Groupers and sea basses",
+      "species_count": 1
+    },
+    {
+      "scientific_name": "Synbranchidae",
+      "order": null,
+      "common_name": "Swamp eels",
+      "species_count": 1
+    }
+  ]
+}

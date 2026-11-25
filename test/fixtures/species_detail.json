@@ -1,0 +1,94 @@
+{
+  "data": {
+    "id": "01M88ENCMEZ527FYQ7Y0WW0VJH",
+    "scientific_name": "Channa micropeltes",
+    "names": {
+      "en": "Giant snakehead",
+      "ms": "Toman"
+    },
+    "family": "Channidae",
+    "water_types": [
+      "freshwater"
+    ],
+    "rarity": {
+      "code": "rare",
+      "name": "Jarang",
+      "sort_order": 3,
+      "color": "#2D7FF9",
+      "foil": "holo",
+      "reveal_animation": "rare"
+    },
+    "thumbnail_url": null,
+    "card": {
+      "id": "01M88ENCP1JY5A4MZXJ91WXMM8",
+      "set": "MY-S1",
+      "number": "005",
+      "variant": "standard",
+      "art_url": null,
+      "attributes": null
+    },
+    "user_state": "unseen",
+    "authority": null,
+    "aliases": [
+      {
+        "name": "Giant snakehead",
+        "locale": "en",
+        "type": "common"
+      },
+      {
+        "name": "Toman bunga",
+        "locale": "ms",
+        "type": "local_alias"
+      },
+      {
+        "name": "Toman",
+        "locale": "ms",
+        "type": "common"
+      }
+    ],
+    "taxonomy": {
+      "family": "Channidae",
+      "family_common_name": "Haruan / toman",
+      "order": null,
+      "genus": "Channa"
+    },
+    "description": null,
+    "identification_notes": "Large snakehead. Adults have a broad dark lateral band from eye to tail; juveniles are striped red-orange and black (often sold as \"red snakehead\"). Large mouth with strong teeth.",
+    "fun_fact": null,
+    "max_length_cm": null,
+    "max_weight_kg": null,
+    "habitats": [
+      {
+        "code": "river",
+        "name": "Sungai & anak sungai"
+      },
+      {
+        "code": "lake_reservoir",
+        "name": "Tasik & empangan"
+      },
+      {
+        "code": "swamp_peat",
+        "name": "Paya & hutan gambut"
+      }
+    ],
+    "distribution": {
+      "origin": "native",
+      "notes": null,
+      "regions": []
+    },
+    "conservation": [],
+    "legal_notice": null,
+    "images": [],
+    "lookalikes": [
+      {
+        "id": "01M88ENCMMC7A55VRXEJ8M46VQ",
+        "scientific_name": "Channa striata",
+        "names": {
+          "en": "Striped snakehead",
+          "ms": "Haruan"
+        }
+      }
+    ],
+    "collection": null
+  }
+}

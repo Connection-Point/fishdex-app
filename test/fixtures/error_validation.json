@@ -1,0 +1,24 @@
+{
+  "type": "https://fishdex.app/problems/validation-failed",
+  "title": "Unprocessable Content",
+  "status": 422,
+  "detail": "The given data was invalid.",
+  "code": "validation_failed",
+  "errors": {
+    "email": [
+      "The email field must be a valid email address."
+    ],
+    "password": [
+      "The password field is required."
+    ],
+    "display_name": [
+      "The display name field is required."
+    ],
+    "handle": [
+      "The handle field is required."
+    ],
+    "device_name": [
+      "The device name field is required."
+    ]
+  }
+}

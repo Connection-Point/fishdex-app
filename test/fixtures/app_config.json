@@ -1,0 +1,179 @@
+{
+  "data": {
+    "min_supported_version": "1.0.0",
+    "country": "MY",
+    "catalogue_version": "088f0b9356ca4ff3",
+    "ai": {
+      "tier": "free",
+      "scanning_available": true,
+      "consent_required": true,
+      "next_capacity_reset": "2026-11-25T08:00:00+00:00"
+    },
+    "rarity_tiers": [
+      {
+        "code": "common",
+        "name": "Common",
+        "color": "#9AA5B1",
+        "foil": "none",
+        "reveal_animation": "standard",
+        "sort_order": 1
+      },
+      {
+        "code": "uncommon",
+        "name": "Uncommon",
+        "color": "#2FBF71",
+        "foil": "sheen",
+        "reveal_animation": "standard",
+        "sort_order": 2
+      },
+      {
+        "code": "rare",
+        "name": "Rare",
+        "color": "#2D7FF9",
+        "foil": "holo",
+        "reveal_animation": "rare",
+        "sort_order": 3
+      },
+      {
+        "code": "epic",
+        "name": "Epic",
+        "color": "#9B5DE5",
+        "foil": "prism",
+        "reveal_animation": "epic",
+        "sort_order": 4
+      },
+      {
+        "code": "legendary",
+        "name": "Legendary",
+        "color": "#F5B700",
+        "foil": "aurora",
+        "reveal_animation": "legendary",
+        "sort_order": 5
+      }
+    ],
+    "habitats": [
+      {
+        "code": "river",
+        "name": "River & stream"
+      },
+      {
+        "code": "lake_reservoir",
+        "name": "Lake & reservoir"
+      },
+      {
+        "code": "paddy_canal",
+        "name": "Paddy field & canal"
+      },
+      {
+        "code": "swamp_peat",
+        "name": "Swamp & peat forest"
+      },
+      {
+        "code": "mangrove_estuary",
+        "name": "Mangrove & estuary"
+      },
+      {
+        "code": "coastal_reef",
+        "name": "Coast & reef"
+      },
+      {
+        "code": "open_sea",
+        "name": "Open sea"
+      },
+      {
+        "code": "pond_kolam",
+        "name": "Pond & fishing pond"
+      }
+    ],
+    "regions": [
+      {
+        "code": "MY-01",
+        "name": "Johor",
+        "type": "state"
+      },
+      {
+        "code": "MY-02",
+        "name": "Kedah",
+        "type": "state"
+      },
+      {
+        "code": "MY-03",
+        "name": "Kelantan",
+        "type": "state"
+      },
+      {
+        "code": "MY-04",
+        "name": "Melaka",
+        "type": "state"
+      },
+      {
+        "code": "MY-05",
+        "name": "Negeri Sembilan",
+        "type": "state"
+      },
+      {
+        "code": "MY-06",
+        "name": "Pahang",
+        "type": "state"
+      },
+      {
+        "code": "MY-08",
+        "name": "Perak",
+        "type": "state"
+      },
+      {
+        "code": "MY-09",
+        "name": "Perlis",
+        "type": "state"
+      },
+      {
+        "code": "MY-07",
+        "name": "Pulau Pinang",
+        "type": "state"
+      },
+      {
+        "code": "MY-12",
+        "name": "Sabah",
+        "type": "state"
+      },
+      {
+        "code": "MY-13",
+        "name": "Sarawak",
+        "type": "state"
+      },
+      {
+        "code": "MY-10",
+        "name": "Selangor",
+        "type": "state"
+      },
+      {
+        "code": "MY-11",
+        "name": "Terengganu",
+        "type": "state"
+      },
+      {
+        "code": "MY-14",
+        "name": "W.P. Kuala Lumpur",
+        "type": "federal_territory"
+      },
+      {
+        "code": "MY-15",
+        "name": "W.P. Labuan",
+        "type": "federal_territory"
+      },
+      {
+        "code": "MY-16",
+        "name": "W.P. Putrajaya",
+        "type": "federal_territory"
+      }
+    ],
+    "card_sets": [
+      {
+        "id": "01M88ENCNY4Z9QD7N010KEG5YG",
+        "code": "MY-S1",
+        "name": "Malaysia — Series 1",
+        "total_cards": 20
+      }
+    ]
+  }
+}

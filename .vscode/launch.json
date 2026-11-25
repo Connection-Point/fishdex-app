@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "FishDex (emulator)",
+      "request": "launch",
+      "type": "dart",
+      "args": ["--dart-define-from-file=dart_defines.json"]
+    },
+    {
+      "name": "FishDex (phone via adb reverse)",
+      "request": "launch",
+      "type": "dart",
+      "args": ["--dart-define=API_BASE_URL=http://127.0.0.1:8000/api/v1"]
+    }
+  ]
+}

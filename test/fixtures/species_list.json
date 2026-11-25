@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "id": "01M88ENCNJ4M4Y07WX3PKMKNZE",
+      "scientific_name": "Anabas testudineus",
+      "names": {
+        "en": "Climbing perch",
+        "ms": "Puyu"
+      },
+      "family": "Anabantidae",
+      "water_types": [
+        "freshwater",
+        "brackish"
+      ],
+      "rarity": {
+        "code": "common",
+        "name": "Common",
+        "sort_order": 1,
+        "color": "#9AA5B1",
+        "foil": "none",
+        "reveal_animation": "standard"
+      },
+      "thumbnail_url": null,
+      "card": {
+        "id": "01M88ENCNZV1TJKFHW4087XETJ",
+        "set": "MY-S1",
+        "number": "001",
+        "variant": "standard",
+        "art_url": null,
+        "attributes": null
+      },
+      "user_state": "unseen"
+    },
+    {
+      "id": "01M88ENCMXXQ5ACRMVN2JRT314",
+      "scientific_name": "Barbonymus schwanenfeldii",
+      "names": {
+        "en": "Tinfoil barb",
+        "ms": "Lampam sungai"
+      },
+      "family": "Cyprinidae",
+      "water_types": [
+        "freshwater"
+      ],
+      "rarity": {
+        "code": "common",
+        "name": "Common",
+        "sort_order": 1,
+        "color": "#9AA5B1",
+        "foil": "none",
+        "reveal_animation": "standard"
+      },
+      "thumbnail_url": null,
+      "card": {
+        "id": "01M88ENCP2CAENTFN04F09XS1Q",
+        "set": "MY-S1",
+        "number": "009",
+        "variant": "standard",
+        "art_url": null,
+        "attributes": null
+      },
+      "user_state": "unseen"
+    },
+    {
+      "id": "01M88ENCMPQMYR6BBNFAABMYY2",
+      "scientific_name": "Channa lucius",
+      "names": {
+        "en": "Splendid snakehead",
+        "ms": "Bujuk"
+      },
+      "family": "Channidae",
+      "water_types": [
+        "freshwater"
+      ],
+      "rarity": {
+        "code": "uncommon",
+        "name": "Uncommon",
+        "sort_order": 2,
+        "color": "#2FBF71",
+        "foil": "sheen",
+        "reveal_animation": "standard"
+      },
+      "thumbnail_url": null,
+      "card": {
+        "id": "01M88ENCP0519KXXTG4HW880PT",
+        "set": "MY-S1",
+        "number": "004",
+        "variant": "standard",
+        "art_url": null,
+        "attributes": null
+      },
+      "user_state": "unseen"
+    }
+  ],
+  "meta": {
+    "next_cursor": "eyJmaXNoX3NwZWNpZXMuc2NpZW50aWZpY19uYW1lIjoiQ2hhbm5hIGx1Y2l1cyIsImZpc2hfc3BlY2llcy5pZCI6MywiX3BvaW50c1RvTmV4dEl0ZW1zIjp0cnVlfQ",
+    "limit": 3
+  }
+}

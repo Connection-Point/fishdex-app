@@ -1,0 +1,19 @@
+{
+  "data": {
+    "id": "01M88END08JVK1VH99Y6J9EKNM",
+    "handle": "fixture_user",
+    "display_name": "Fixture",
+    "avatar": null,
+    "email": "fx@fishdex.test",
+    "email_verified": false,
+    "country": "MY",
+    "home_region": null,
+    "locale": "en",
+    "timezone": "Asia/Kuala_Lumpur",
+    "units": "metric",
+    "default_location_visibility": "private",
+    "plan": "free",
+    "beta_ai_consent": true,
+    "created_at": "2026-11-25T04:15:46+00:00"
+  }
+}
