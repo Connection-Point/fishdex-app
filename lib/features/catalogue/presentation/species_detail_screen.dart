@@ -42,7 +42,7 @@ class _DetailBody extends StatelessWidget {
     final l = AppLocalizations.of(context);
     final s = detail.summary;
     final theme = Theme.of(context);
-    final primaryImage = detail.images.isNotEmpty ? detail.images.first.url : s.thumbnailUrl;
+    final primaryImage = s.card?.artUrl ?? s.thumbnailUrl ?? (detail.images.isNotEmpty ? detail.images.first.url : null);
 
     String originLabel(String? o) => switch (o) {
       'native' => l.native,
